@@ -1,0 +1,18 @@
+doctype html
+html
+    head
+        include head
+        title 微笑社区_一个让你欢乐社区
+        | <meta name="description" content="打造最具人气的微笑社区,抛弃一切的烦恼,一切的空虚,一切的压力,郁闷,享受你我的欢笑,乐观积极的对待生活,享受世界,享受生活.">
+        style
+        link(rel="stylesheet",href="#{assets_head}/css/photoWall.css",type="text/css")
+        script(src='#{assets_head}/js/bootstrap/bootstrap-tooltip.js')
+        script(src='#{assets_head}/js/libs/lazyload.js')
+    body#index
+    .m-indextop.w980.mcenter.clears.img
+        .imgwrap.fl
+             img(src='#{assets_head}/images/logo_min.jpg')
+        span smilekeep-微笑  让生活更美好
+             p hello :-D
+    include ./unit/photoWall
+    include footer
