@@ -1,2 +1,4 @@
 config.js
 .idea
+.DS_Store
+.idea/libraries/smilekeep_node_modules.xml
