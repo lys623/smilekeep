@@ -1,6 +1,6 @@
 
 
-Picture=new BaseModel('pictures.coffee')
+Picture=new BaseModel('pictures')
 module.exports=
   getAllPictures:(cb)->
     Picture.findAll().order({}).done (error,datas)->

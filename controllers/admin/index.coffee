@@ -59,6 +59,8 @@ module.exports =
                     result.info = error.message
                     res.send result
                     return
+                  else
+                    console.log('成功插入数据')
               res.send result
         else
           result.info = "错误的图片文件"
