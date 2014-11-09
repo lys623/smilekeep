@@ -87,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/models/inde.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="754">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -143,6 +143,7 @@
         <option value="$PROJECT_DIR$/61.js" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/services/pictrues.coffee" />
+        <option value="$PROJECT_DIR$/models/inde.coffee" />
       </list>
     </option>
   </component>
@@ -775,8 +776,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/inde.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="754">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
