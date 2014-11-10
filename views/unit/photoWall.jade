@@ -1,63 +1,68 @@
-div#diaryList.m-photoWall
-    ul
-        - for (var x = 0; x < 5; x++)
-            li
-                a(href='/diary/detail/id-1510834.html', target='_blank')
-                    img(src='http://image.smilekeep.cn/uploads/1415104310892-duihua.jpg!212', width='212', height='147')
-                .p10
-                    .fText 哈哈,太搞笑了,有木有
-                .foot
-                    a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*100)}
-                    a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*1000)}
-                .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
-                    span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
+if(locals.data)
+    div#diaryList.m-photoWall
+        ul
+            each item,key in locals.data
+                if(key%4==0)
+                    li
+                        a(href='/diary/detail/id-1510834.html', target='_blank')
+                            img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
+                        .p10
+                            .fText #{item.desc}
+                        .foot
+                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
+                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                        .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
+                            //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
 
-    ul
-        - for (var x = 0; x < 5; x++)
-            li
-                a(href='/diary/detail/id-1493803.html', target='_blank')
-                    img(src='http://s08.lmbang.com/M00/95/F7/DhFprFRDbZOAElwYAAMXrxZPst8128.jpg!r568x852x100.jpg', width='212', height='318')
-                .p10
-                    .fText 哈哈,太搞笑了,有木有
-                .foot
-                    a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*100)}
-                    a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*1000)}
-                .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
-                    span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
+        ul
+            each item,key in locals.data
+                if(key%4==1)
+                    li
+                        a(href='/diary/detail/id-1510834.html', target='_blank')
+                            img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
+                        .p10
+                            .fText #{item.desc}
+                        .foot
+                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
+                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                        .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
+                            //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
 
-    ul
-        - for (var x = 0; x < 5; x++)
-            li
-                a(href='/diary/detail/id-1496049.html', target='_blank')
-                    img(src='http://s05.lmbang.com/M00/98/41/DhFprFRFAfmATO1DAAEHwLFY9YQ773.jpg!r568x568x100.jpg', width='212', height='212')
-                .p10
-                    .fText 哈哈,太搞笑了,有木有
-                .foot
-                    a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*100)}
-                    a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*1000)}
-                .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
-                    span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
+        ul
+            each item,key in locals.data
+                if(key%4==2)
+                    li
+                        a(href='/diary/detail/id-1510834.html', target='_blank')
+                            img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
+                        .p10
+                            .fText #{item.desc}
+                        .foot
+                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
+                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                        .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
+                            //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
 
-    ul
-        - for (var x = 0; x < 5; x++)
-            li
-                a(href='/diary/detail/id-1508651.html', target='_blank')
-                    img(src='http://s03.lmbang.com/M00/93/25/eQ519FROUvSAYxFkAAIb6NLiXlc924.jpg!r568x759x100.jpg', width='212', height='284')
-                .p10
-                    .fText 哈哈,太搞笑了,有木有
-                .foot
-                    a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*100)}
-                    a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{Math.floor(Math.random()*300)}
-                .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
-                    span.fr.pr20 #{moment("2014-10-31 00:00:00").fromNow()}
+        ul
+            each item,key in locals.data
+                if(key%4==3)
+                    li
+                        a(href='/diary/detail/id-1510834.html', target='_blank')
+                            img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
+                        .p10
+                            .fText #{item.desc}
+                        .foot
+                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
+                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                        .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
+                            //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
 
-    div#diaryLoading.dpn(style='text-align: center; margin-top: 35px;')
-        img(src='#{assets_head}/images/loading.gif')
-    div.cb
+        div#diaryLoading.dpn(style='text-align: center; margin-top: 35px;')
+            img(src='#{assets_head}/images/loading.gif')
+        div.cb
 
 script.
     window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"smilekeep_微笑社区","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"16"},"share":{},"image":{"viewList":["tsina","qzone","sqq","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["tsina","qzone","sqq","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];

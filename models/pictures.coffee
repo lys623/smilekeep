@@ -25,25 +25,13 @@ module.exports =
     defaultValue:0
     type:"tinyint"
     private:true
-  is_jian:
-    defaultValue:0
-    type:"tinyint"
-    private:true
-  is_yuanchuang:
-    defaultValue:0
-    type:"tinyint"
-    private:true
   sort:"int"
   is_top:"tinyint"
   type:
     type:"int"
     defaultValue:1
     private:true
-  quote_url:
-    type:"varchar(255)" #引用原文url
-    private:true
   desc:"text"
-  main_pic:"varchar(255)"
   tagNames:
     type:"varchar(255)"
     private:true
@@ -53,4 +41,5 @@ module.exports =
     defaultValue:0
     type:"double"
     private:true
+  create_date:"datetime"
 

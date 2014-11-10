@@ -6,7 +6,7 @@ md5 = (string)->
   md5sum = crypto.createHash('md5')
   md5sum.update(string, 'utf8')
   return md5sum.digest('hex')
-func_pictures = loadService('pictrues');
+func_pictures = loadService('pictures');
 
 module.exports =
   "/":
@@ -54,7 +54,7 @@ module.exports =
                 result.success = 1
                 result.data =
                   filename:"http://smilekeep-image.b0.upaiyun.com/uploads/"+pack_name
-                func_pictures.add {"name":pack_name,"desc":reqbodydata.desc,"uuid":reqbodydata.uuid},(error,picture)->
+                func_pictures.add {"name":pack_name,"desc":reqbodydata.desc,"uuid":reqbodydata.uuid,"create_date":new Date()},(error,picture)->
                   if error
                     result.info = error.message
                     res.send result
