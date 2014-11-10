@@ -9,5 +9,4 @@ module.exports =
             next(err)
           else
             res.locals.data=data;
-            console.log(data);
             res.render "index.jade"
