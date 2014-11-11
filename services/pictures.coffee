@@ -6,8 +6,9 @@ module.exports=
     page=page||1;
     count=count||20;
     Picture.findAll().fields(['id','name','desc','zan_count','visit_count']).done (error,data)->
-      data.forEach (item)->
-        console.log(item.id)
+#      data.forEach (item)->
+#        item.updateAttributes
+#          visit_count: if item.visit_count then (item.visit_count+1) else 1
       cb&&cb error,data
   add:(t,cb)->
     Picture.add(t).done (error,pictrue)->

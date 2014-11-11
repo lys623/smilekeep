@@ -1,0 +1,360 @@
+mysql没有配置，不能使用sql的功能
+mongodb尝试链接
+route:get:/
+进入了
+task started pid:18510
+Express server listening on port 8000
+checkTeacher filter
+[32m[2014-10-21 13:16:28.893] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:16:29.203] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:16:30.491] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:16:30.566] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:16:32.049] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:16:32.301] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:16:32.592] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:16:32.657] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:17:33.043] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:17:37.318] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:17:37.593] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:17:39.026] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:17:39.087] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:18:44.610] [INFO] normal - [39mundefined - - "GET /a HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:18:49.774] [INFO] normal - [39mundefined - - "GET /34534 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:18:53.398] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:18:53.710] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:18:55.011] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:18:55.078] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:18:58.447] [INFO] normal - [39mundefined - - "GET /s HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:19:02.500] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:02.774] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:04.160] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:04.252] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:19:15.182] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:15.506] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:16.881] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:16.954] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:19:18.829] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:19.097] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:20.557] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:20.629] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:19:21.149] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1301 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:21.410] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:22.916] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:19:23.021] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:24:21.661] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:24:21.944] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:24:23.142] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:24:23.216] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:25:52.319] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:25:52.577] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:25:53.736] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:25:53.800] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:26:47.434] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "http://set1.mail.qq.com/cgi-bin/readtemplate?sid=j2hQWzDegILHMCZy&t=compose&ver=0501&s=cnew&s=left&loc=frame_html,,,21" "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; QQBrowser/7.7.28658.400)"
+[32m[2014-10-21 13:26:47.508] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; QQBrowser/7.7.28658.400)"
+[32m[2014-10-21 13:26:48.435] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; qdesk 2.5.1277.202; QQDownload 718; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E; QQBrowser/7.7.28658.400)"
+checkTeacher filter
+[32m[2014-10-21 13:29:34.915] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:29:35.181] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:29:36.368] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:29:36.426] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:32:09.295] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-21 13:33:28.901] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:33:29.092] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:33:30.330] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:33:30.382] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:34:32.943] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:34:33.219] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:34:34.381] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:34:34.436] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 13:35:21.034] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:35:21.274] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:35:22.446] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:35:22.510] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 13:41:51.422] [INFO] normal - [39mundefined - - "GET /robots.txt HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)"
+checkTeacher filter
+[32m[2014-10-21 13:41:52.043] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "http://whois.domaintools.com/smilekeep.cn" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)"
+[32m[2014-10-21 13:45:50.462] [INFO] normal - [39mundefined - - "GET /checklogin HTTP/1.0" 200 158 "http://smilekeep.cn/" "Mozilla/4.0"
+[32m[2014-10-21 13:51:38.855] [INFO] normal - [39mundefined - - "GET /34534 HTTP/1.0" 200 158 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-21 13:56:20.546] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+[32m[2014-10-21 14:02:43.961] [INFO] normal - [39mundefined - - "GET /s HTTP/1.0" 200 158 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-21 14:04:55.805] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-21 14:08:02.291] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-21 15:52:13.921] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 15:52:14.131] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 15:52:14.684] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 15:52:14.747] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 15:52:17.015] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 15:52:17.246] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 15:52:17.525] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 15:52:17.592] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 16:12:48.285] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 16:12:48.539] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 16:12:48.963] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-21 16:12:49.028] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 19:54:14.529] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+[32m[2014-10-21 19:54:14.794] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+checkTeacher filter
+[32m[2014-10-21 19:54:24.590] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+[32m[2014-10-21 19:54:24.767] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+checkTeacher filter
+[32m[2014-10-21 21:01:50.547] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:01:50.701] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:01:51.778] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:01:51.846] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 21:01:52.229] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:01:52.402] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:01:52.812] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:01:52.890] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 21:09:48.157] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:09:48.328] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:09:48.694] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-21 21:09:48.910] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:09:49.088] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:09:49.517] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-21 21:09:49.585] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-22 08:12:12.418] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-10-22 09:05:05.130] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-22 09:05:05.307] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-22 09:05:05.717] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+[32m[2014-10-22 09:05:05.779] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-22 09:07:11.452] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-22 15:57:54.691] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36"
+[32m[2014-10-22 15:57:54.780] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36"
+[32m[2014-10-22 15:57:55.744] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36"
+[32m[2014-10-22 15:57:55.801] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-22 20:12:45.136] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-22 20:12:45.543] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-22 20:12:45.966] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-22 20:12:46.058] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 00:45:05.776] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 00:45:06.480] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 00:45:20.452] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 00:45:22.877] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 00:45:42.211] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 00:46:14.973] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-23 07:34:49.151] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-10-23 09:43:56.774] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon"
+[32m[2014-10-23 09:43:57.348] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon"
+checkTeacher filter
+[32m[2014-10-23 09:44:56.124] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)"
+checkTeacher filter
+[32m[2014-10-23 09:45:11.765] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-10-23 13:22:41.668] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+[32m[2014-10-23 13:22:41.913] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+checkTeacher filter
+[32m[2014-10-24 00:07:20.812] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-24 00:07:20.984] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-24 00:07:21.381] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-24 00:07:21.579] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-24 00:07:22.053] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-24 00:07:22.119] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-24 03:04:18.589] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"
+checkTeacher filter
+[32m[2014-10-24 03:04:18.604] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"
+checkTeacher filter
+[32m[2014-10-24 08:11:28.129] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-10-24 23:23:32.728] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+[32m[2014-10-24 23:23:33.035] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+checkTeacher filter
+[32m[2014-10-25 09:15:01.774] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+[32m[2014-10-25 09:15:01.864] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12A405 UCBrowser/10.0.4.507 Mobile"
+checkTeacher filter
+[32m[2014-10-26 06:30:05.601] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-10-26 08:15:25.901] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-10-26 12:25:03.725] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; iCafeMedia; .NET CLR 2.0.50727; CIBA)"
+checkTeacher filter
+[32m[2014-10-28 16:52:42.548] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-28 16:52:42.722] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-28 16:52:43.176] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-28 16:52:43.225] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-28 17:17:16.337] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-28 17:18:32.267] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-28 17:24:28.611] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-29 02:04:43.611] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-10-29 02:04:45.295] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-10-29 20:55:02.422] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-29 20:55:02.970] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-29 20:55:04.035] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+[32m[2014-10-29 20:55:04.532] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-30 08:23:50.945] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-10-30 17:06:25.471] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1"
+checkTeacher filter
+[32m[2014-10-31 15:52:43.805] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-10-31 15:52:43.864] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-10-31 15:52:44.727] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-10-31 15:52:44.772] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-31 15:53:07.973] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-31 15:53:12.718] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36"
+[32m[2014-10-31 15:53:12.736] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-31 15:53:48.164] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.264] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.336] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.474] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.565] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.611] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.662] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:53:48.713] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+checkTeacher filter
+[32m[2014-10-31 15:54:36.357] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-10-31 15:54:36.609] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-10-31 15:54:37.147] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-10-31 15:54:37.206] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+checkTeacher filter
+[32m[2014-10-31 15:59:21.151] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 15:59:21.235] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+[32m[2014-10-31 16:03:22.439] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-31 16:08:48.116] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+[32m[2014-10-31 16:13:19.330] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-31 16:19:33.865] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-10-31 18:14:58.830] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "http://www.smilekeep.cn/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)"
+checkTeacher filter
+[32m[2014-10-31 18:16:48.232] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/536.11 (KHTML, like Gecko) chrome/22.0.1190.0 Safari/536.11"
+[32m[2014-10-31 18:16:48.273] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 200 158 "http://www.smilekeep.cn/" "Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/536.11 (KHTML, like Gecko) chrome/22.0.1190.0 Safari/536.11"
+checkTeacher filter
+[32m[2014-10-31 20:56:26.640] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-11-01 07:36:24.858] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-11-01 07:36:39.604] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-11-01 07:37:34.453] [INFO] normal - [39m218.77.79.48 - - "GET http://dvky2ri6kb3n0.cloudfront.net/ HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+checkTeacher filter
+[32m[2014-11-01 08:28:22.758] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+[32m[2014-11-03 16:06:21.537] [INFO] normal - [39mundefined - - "GET /robots.txt HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)"
+checkTeacher filter
+[32m[2014-11-03 16:06:22.171] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "http://whois.domaintools.com/smilekeep.cn" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)"
+checkTeacher filter
+[32m[2014-11-03 17:27:02.539] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon"
+[32m[2014-11-03 17:27:03.082] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon"
+checkTeacher filter
+[32m[2014-11-03 23:25:46.001] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-04 00:25:59.597] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-04 02:37:28.653] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-11-04 03:06:33.926] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"
+[32m[2014-11-04 08:53:50.639] [INFO] normal - [39mundefined - - "GET http://home.baidu.com/about/about.html HTTP/1.1" 200 158 "" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0"
+checkTeacher filter
+[32m[2014-11-04 23:33:25.574] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-05 00:58:02.165] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-05 08:08:41.475] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-11-05 10:20:55.019] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; QQBrowser/7.7.28658.400)"
+[32m[2014-11-05 10:20:55.160] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; QQBrowser/7.7.28658.400)"
+[32m[2014-11-05 10:20:55.718] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 200 158 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; qdesk 2.5.1277.202; QQDownload 718; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E; QQBrowser/7.7.28658.400)"
+checkTeacher filter
+[32m[2014-11-05 10:50:45.052] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0"
+checkTeacher filter
+[32m[2014-11-05 23:20:42.712] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-11-05 23:20:45.562] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-11-05 23:21:04.882] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)"
+checkTeacher filter
+[32m[2014-11-05 23:43:33.950] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-06 01:08:19.303] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-06 12:01:30.465] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-11-07 00:01:34.296] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-07 01:12:27.439] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-07 08:10:41.697] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+[32m[2014-11-07 19:33:53.570] [INFO] normal - [39m117.25.135.47 - - "GET /manager/html HTTP/1.1" 200 158 "" "Mozilla/3.0 (compatible; Indy Library)"
+checkTeacher filter
+[32m[2014-11-08 00:21:32.505] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-08 01:53:46.231] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-08 04:42:46.671] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-11-08 04:42:47.345] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727)"
+checkTeacher filter
+[32m[2014-11-08 04:42:51.244] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)"
+checkTeacher filter
+[32m[2014-11-08 04:43:07.136] [INFO] normal - [39m60.173.8.240 - - "GET http://www.soso.com/ HTTP/1.1" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WebSaver; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)"
+checkTeacher filter
+[32m[2014-11-09 00:34:59.522] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-09 02:04:02.722] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-09 08:43:37.725] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" ""
+checkTeacher filter
+[32m[2014-11-09 23:14:16.119] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-11-09 23:14:16.343] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-11-09 23:14:17.107] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-11-09 23:14:17.170] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+checkTeacher filter
+[32m[2014-11-09 23:23:48.983] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-11-09 23:23:49.155] [INFO] normal - [39mundefined - - "GET /assets/css/bootstrap.css3?dddddddd HTTP/1.0" 304 - "http://www.smilekeep.cn/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-11-09 23:23:49.564] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+[32m[2014-11-09 23:23:49.624] [INFO] normal - [39mundefined - - "GET /assets/images/logo.ico?123 HTTP/1.0" 304 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+checkTeacher filter
+[32m[2014-11-10 01:27:17.481] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-10 03:12:47.698] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-11 02:00:28.058] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
+checkTeacher filter
+[32m[2014-11-11 16:41:45.913] [INFO] normal - [39mundefined - - "GET / HTTP/1.0" 200 1406 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)"
