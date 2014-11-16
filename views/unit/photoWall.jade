@@ -3,14 +3,14 @@ if(locals.data)
         ul
             each item,key in locals.data
                 if(key%4==0)
-                    li
+                    li(data-id="#{item.id}")
                         a(href='/diary/detail/id-1510834.html', target='_blank')
                             img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
                         .p10
                             .fText #{item.desc}
                         .foot
-                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
-                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                            a.fa.fa-thumbs-o-up.zan(href='javascript:;') &nbsp;#{item.zan_count}
+                            span.fa.fa-eye.fl.mt10.ml10(href='javascript:;') &nbsp;#{item.visit_count}
                         .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
                             //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
@@ -18,14 +18,14 @@ if(locals.data)
         ul
             each item,key in locals.data
                 if(key%4==1)
-                    li
+                    li(data-id="#{item.id}")
                         a(href='/diary/detail/id-1510834.html', target='_blank')
                             img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
                         .p10
                             .fText #{item.desc}
                         .foot
-                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
-                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                            a.fa.fa-thumbs-o-up.zan(href='javascript:;') &nbsp;#{item.zan_count}
+                            span.fa.fa-eye.fl.mt10.ml10(href='javascript:;') &nbsp;#{item.visit_count}
                         .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
                             //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
@@ -33,14 +33,14 @@ if(locals.data)
         ul
             each item,key in locals.data
                 if(key%4==2)
-                    li
+                    li(data-id="#{item.id}")
                         a(href='/diary/detail/id-1510834.html', target='_blank')
                             img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
                         .p10
                             .fText #{item.desc}
                         .foot
-                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
-                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                            a.fa.fa-thumbs-o-up.zan(href='javascript:;') &nbsp;#{item.zan_count}
+                            span.fa.fa-eye.fl.mt10.ml10(href='javascript:;') &nbsp;#{item.visit_count}
                         .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
                             //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 
@@ -48,14 +48,14 @@ if(locals.data)
         ul
             each item,key in locals.data
                 if(key%4==3)
-                    li
+                    li(data-id="#{item.id}")
                         a(href='/diary/detail/id-1510834.html', target='_blank')
                             img(src='http://image.smilekeep.cn/uploads/#{item.name}!212', width='212')
                         .p10
                             .fText #{item.desc}
                         .foot
-                            a.fa.fa-thumbs-o-up(href='/diary/detail/id-1510834.html') &nbsp;#{item.zan_count}
-                            a.fa.fa-eye(href='/diary/detail/id-1510834.html') &nbsp;#{item.visit_count}
+                            a.fa.fa-thumbs-o-up.zan(href='javascript:;') &nbsp;#{item.zan_count}
+                            span.fa.fa-eye.fl.mt10.ml10(href='javascript:;') &nbsp;#{item.visit_count}
                         .section-intro(class="bgcolor-#{Math.floor(Math.random()*10)} clears")
                             //-span.fr.pr20 #{moment("2014-5-18 00:00:00").fromNow()}
 

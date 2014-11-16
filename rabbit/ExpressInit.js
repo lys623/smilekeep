@@ -35,12 +35,6 @@ module.exports = function(app) {
         //模板所在路径
         app.set('views', path.join(__dirname, 'views'));
         app.set('view engine', 'jade');
-//        app.use(express.favicon());
-//        app.use(favicon(__dirname + '/public/favicon.ico'));
-
-
-     //   app.use('/assets', express['static'](__dirname + '/assets'));
-       // app.use('/uploads', express['static'](__dirname + '/uploads'));
         //日志支持
         log4js.configure({
             appenders: [{
@@ -55,11 +49,11 @@ module.exports = function(app) {
         }));
          app.use(bodyParser.json());
          app.use(bodyParser.urlencoded({ extended: false }));
-        app.use(cookieParser());
-        app.use(session({
-           secret: config.session_secret
-        }));
-//        app.use(methodOverride());
+         app.use(cookieParser());
+         app.use(session({
+            secret: config.session_secret
+         }));
+        app.use(methodOverride());
 
 
 
@@ -91,7 +85,6 @@ module.exports = function(app) {
 //    });
     var env = process.env.NODE_ENV || 'development';
     if ('development' == env) {
-        console.log('进入了')
         app.use(errorhandler());
         app.use(morgan('dev'));
     }

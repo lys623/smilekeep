@@ -166,14 +166,11 @@ BaseModel.prototype = {
         this.action = function(callback) {
             if (self.Model.db_type == 'sql') {
 
-                console.log('进入来1')
                 self.Model.create(kv).complete(function(data) {
-                    console.log('进入来秒3')
                     callback(null, data);
                 }).error(function(e) {
                     callback(e);
                 });
-                console.log('进入来2')
             } else {
                 self.Model.create(kv, function(err, model) {
                     callback(err, model);
